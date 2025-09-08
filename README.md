@@ -49,9 +49,7 @@
 - [VLC for Mobile](https://apps.apple.com/us/app/vlc-for-mobile/id650377962) – Universal media player.
 - [Kodi](https://apps.apple.com/us/app/kodi/id959121174) – Open-source media center.
 - [Organic Maps](https://apps.apple.com/us/app/organic-maps/id1567437057) – Offline maps & navigation.
-- [OsmAnd Maps](https://apps.apple.com/us/app/osmand-maps-travel-navigate/id934850257) – OpenStreetMap-based maps.
-- [SkyView Lite](https://apps.apple.com/us/app/skyview-lite/id413936865) – Augmented reality stargazing.
-- [Google Earth](https://apps.apple.com/us/app/google-earth/id293622097) – 3D world exploration.
+- [[Google Earth](https://apps.apple.com/us/app/google-earth/id293622097) – 3D world exploration.
 
 ---
 
